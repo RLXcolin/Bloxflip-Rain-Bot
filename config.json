@@ -4,5 +4,5 @@
   "windows_notification": "True",
   "webhook_enabled": "True",
   "webhook_ping": "@here",
-  "webhook": "https://discord.com/api/webhooks/1061728903066030184/19mu5LFQR5DcBMKecUxB0aJW_JUFJgUF4JyHEulqbfQdErLm-zg0ozFbqFnVECXB0mrk"
+  "webhook": "your webhook" #discord web_hook input
 }
